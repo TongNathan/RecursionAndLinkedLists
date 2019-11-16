@@ -69,7 +69,6 @@ namespace Exercises
             return false;
         }
 
-        /// <summary>
         /// Returns the number of nodes in the Linked List
         /// </summary>
         /// <returns>int: count</returns>
@@ -77,7 +76,6 @@ namespace Exercises
             return -1;
         }
 
-        /// <summary>
         /// Adds a node to the start of the list.
         /// </summary>
         /// <param name="data"></param>
@@ -86,7 +84,6 @@ namespace Exercises
             return false;
         }
 
-        /// <summary>
         /// add new node at index.  If index specified is greater than the size of the current list,
         /// adds nodes with null data in between.  Negative index will return false.
         /// </summary>
@@ -97,7 +94,6 @@ namespace Exercises
             return false;
         }
 
-        /// <summary>
         /// Delete node at index.  return false if node does not exist
         /// </summary>
         /// <param name="index"></param>

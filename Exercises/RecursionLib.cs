@@ -15,7 +15,6 @@ namespace Exercises
             // return num*FactorialRec(num-1)
         }
 
-        /// <summary>
         /// Creates a list of numbers from 1 to num.  Initialise numsList with empty List.
         /// </summary>
         /// <param name="num"></param>
@@ -25,7 +24,6 @@ namespace Exercises
             return new List<int>();
         }
 
-        /// <summary>
         /// Returns the result of num to the power of pow.
         /// </summary>
         /// <param name="num"></param>
@@ -36,7 +34,6 @@ namespace Exercises
             return 1;
         }
 
-        /// <summary>
         /// Returns word (string) in reverse order.  Treats all characters the same.
         /// </summary>
         /// <param name="word"></param>
